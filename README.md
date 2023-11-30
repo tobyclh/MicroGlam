@@ -1,5 +1,5 @@
 # MicroGlam✨: Microscopic Skin Image Dataset with Cosmetics
-##### Toby Chong, Alina Chadwick, I-Chao Shen, Haoran Xie, Takeo Igarashi
+##### [Toby Chong](https://www.tobyc.graphics), Alina Chadwick, [I-Chao Shen](https://jdily.github.io/), [Haoran Xie](http://www.jaist.ac.jp/~xie/), [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/)
 ![image](https://github.com/tobyclh/MicroGlam/assets/12501995/8d9dcc93-5b6f-4b55-a970-85be298f9337)
 
 MicroGlam is a dataset of skin patch images from 45 patches (5 skin patches each from 9 participants) of size 8mm $^*$ 8mm under three cosmetic products (i.e., foundation, blusher, and highlighter) under a variety of light conditions. 
