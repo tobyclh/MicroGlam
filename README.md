@@ -31,4 +31,4 @@ This data is free to use for non-commercial academic research.
 
 
 ## Contact
-Should you have any question please feel free to open an issue and for commercial enquiry please contact our lab at tobyclh@g.ecc.u-tokyo.ac.jp
+Should you have any question please feel free to open an issue and for commercial enquiry please contact me at tobyclh@gmail.com.
